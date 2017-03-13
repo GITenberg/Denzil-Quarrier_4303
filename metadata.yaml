@@ -1,5 +1,8 @@
 _repo: Denzil-Quarrier_4303
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gissing, George
@@ -14,6 +17,8 @@ description: Title; Contents; Chapter I; Chapter II; Chapter III; Chapter IV; Ch
   XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII;
   Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV;
   Chapter XXV; Chapter XXVI; Chapter XXVII;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4303#Denzil-Quarrier
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
